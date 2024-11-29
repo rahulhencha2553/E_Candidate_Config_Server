@@ -12,6 +12,9 @@ eureka:
 # JWT AUTHENTICATION SECRET KEY
 secret:
   key: 774488559966abcsdefghijklmnopqrstuvwxyz1234567890
+token:
+  issuer:
+    name: E-CANDIDATE
 
 # DATABASE AND JPA CONFIGURATION
 spring:
